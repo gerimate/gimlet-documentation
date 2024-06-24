@@ -6,7 +6,7 @@ chart:
   name: https://github.com/gimlet-io/onechart.git?branch=simplified-schema&path=/charts/onechart/
 values:
   containerPort: 80
-  gitBranch: '{{ .BRANCH }}'
+  gitBranch: home-page-revamp
   gitRepository: gerimate/gimlet-documentation
   gitSha: '{{ .SHA }}'
   image:
